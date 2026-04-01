@@ -191,6 +191,9 @@ This project can be deployed as-is. If using SQLite in production/demo hosting, 
 AUTHOR: Jay Joshi
 
 Email: joshijayy421@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/jay-joshi-75b75124b/
+
 GitHub: https://github.com/jayyx3
+
 Portfolio: https://jay-portfolio-ten-tawny.vercel.app/
