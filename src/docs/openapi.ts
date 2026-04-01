@@ -1,7 +1,3 @@
-import { env } from "../config/env";
-
-const serverUrl = `http://localhost:${env.PORT}`;
-
 export const openApiSpec = {
   openapi: "3.0.3",
   info: {
@@ -10,7 +6,7 @@ export const openApiSpec = {
     description:
       "Backend assignment API with JWT auth, RBAC, financial records CRUD, filtering, dashboard summaries, validation, and SQLite persistence."
   },
-  servers: [{ url: serverUrl }],
+  servers: [{ url: "/" }],
   components: {
     securitySchemes: {
       bearerAuth: {
