@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "dist",
+    "module": "Node16",
+    "target": "ES2021",
+    "lib": ["ES2021"],
+    "types": ["node", "vitest/globals"],
+    "sourceMap": true,
+    "declaration": false,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": false,
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node16",
+    "resolveJsonModule": true,
+    "skipLibCheck": true
+  },
+  "include": ["src", "prisma", "tests", "vitest.config.mts"],
+  "exclude": ["node_modules", "dist"]
+}
