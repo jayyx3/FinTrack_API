@@ -1,4 +1,4 @@
-# Finance Data Processing and Access Control Backend
+# Finance Data Processing and Access Control Backend 
 
 Submission project for a backend assignment focused on API design, role-based access control, data modeling, validation, and dashboard-style finance analytics.
 
